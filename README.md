@@ -6,7 +6,7 @@
 
 **An interactive digital portfolio and engineer showcase highlighting enterprise microservices architecture, Agentic AI systems, and full-stack software development.**
 
-[Explore Live Portfolio](https://parasjain.pro/) • [View Experience](https://parasjain.pro/#/experience) • [Get in Touch](https://www.linkedin.com/in/paras-jain23)
+[Explore Live Portfolio](https://parasjain.pro/)
 
 ---
 
