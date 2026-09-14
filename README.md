@@ -1,7 +1,7 @@
 # 🚀 Paras Jain — Personal Portfolio & Interactive Résumé
 
 [![Website](https://img.shields.io/badge/Portfolio-parasjain.pro-8b5cf6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://parasjain.pro/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-paras--jain23-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paras-jain23)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-paras--jain23-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iparasjain)
 [![React](https://img.shields.io/badge/React-18.2.0-61dafb?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
 
 **An interactive digital portfolio and engineer showcase highlighting enterprise microservices architecture, Agentic AI systems, and full-stack software development.**
@@ -34,5 +34,5 @@
 
 ## 📬 Connect
 
-- **Live Portfolio**: [parasjain.pro](https://www.parasjain.pro/)
-- **LinkedIn**: [linkedin.com/in/paras-jain23](https://www.linkedin.com/in/paras-jain23)
+- **Live Portfolio**: [parasjain.pro](https://parasjain.pro/)
+- **LinkedIn**: [linkedin.com/in/iparasjain](https://www.linkedin.com/in/iparasjain)
