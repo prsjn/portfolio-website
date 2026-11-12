@@ -3,17 +3,17 @@
   "name": "Paras Jain",
   "icons": [
     {
-      "src": "favicon.ico",
+      "src": "favicon.ico?v=pj-blue-3",
       "sizes": "256x256 128x128 64x64 48x48 32x32 24x24 16x16",
       "type": "image/x-icon"
     },
     {
-      "src": "logo192.png",
+      "src": "logo192.png?v=pj-blue-3",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "logo512.png",
+      "src": "logo512.png?v=pj-blue-3",
       "type": "image/png",
       "sizes": "512x512"
     }
