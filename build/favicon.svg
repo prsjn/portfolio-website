@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <title>Paras Jain</title>
+  <path fill="#20242B" d="M8 8h54v54H8z" />
+  <path fill="#0A66C2" stroke="#20242B" stroke-width="4" d="M2 2h54v54H2z" />
+  <path fill="#FFFFFF" fill-rule="evenodd" d="M12 15h19v21H18v12h-6V15Zm6 6v9h7v-9h-7Z" clip-rule="evenodd" />
+  <path fill="#FFFFFF" d="M35 15h15v24c0 6-3 9-9 9h-7v-6h6c3 0 4-1 4-4V21h-9v-6Z" />
+</svg>
